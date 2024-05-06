@@ -8,7 +8,7 @@ import streamlit as st
 from sklearn.metrics.pairwise import cosine_similarity
 from collections import Counter
 import zipfile
-
+test_df = pd.read_csv('test_df.csv', index_col=0)
 with zipfile.ZipFile('z.zip', 'r') as zip_ref:
     csv_file = zip_ref.open('train_df1.csv')  # Assuming the CSV file is named 'data.csv'
     train_df = pd.read_csv(csv_file)  # Read the CSV data
