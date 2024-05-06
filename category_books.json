@@ -1,0 +1,407 @@
+{
+    "Fantasy": [
+        [
+            "The Last of the Really Great Whangdoodles",
+            4.83,
+            143
+        ],
+        [
+            "Big Pumpkin",
+            4.76,
+            148
+        ],
+        [
+            "The Dark Is Rising Sequence: Silver on the Tree; The Grey King; Greenwitch; The Dark Is Rising; and Over Sea, Under Stone",
+            4.75,
+            198
+        ],
+        [
+            "Tripods Trilogy",
+            4.71,
+            17
+        ],
+        [
+            "Night Watch (Discworld)",
+            4.67,
+            123
+        ]
+    ],
+    "Literature": [
+        [
+            "Red Adam's Lady",
+            4.9,
+            21
+        ],
+        [
+            "The Berenstains' B Book (Bright & Early Books)",
+            4.88,
+            42
+        ],
+        [
+            "Brewer's Dictionary of Phrase and Fable",
+            4.88,
+            16
+        ],
+        [
+            "28 Barbary Lane: A \"Tales of the City\" Omnibus",
+            4.85,
+            27
+        ],
+        [
+            "With Fire and Sword",
+            4.82,
+            33
+        ]
+    ],
+    "Fiction": [
+        [
+            "Red Adam's Lady",
+            4.9,
+            21
+        ],
+        [
+            "The Berenstains' B Book (Bright & Early Books)",
+            4.88,
+            42
+        ],
+        [
+            "Brewer's Dictionary of Phrase and Fable",
+            4.88,
+            16
+        ],
+        [
+            "28 Barbary Lane: A \"Tales of the City\" Omnibus",
+            4.85,
+            27
+        ],
+        [
+            "With Fire and Sword",
+            4.82,
+            33
+        ]
+    ],
+    "Suspense": [
+        [
+            "Heart Trouble: A Callahan Garrity Mystery",
+            4.67,
+            18
+        ],
+        [
+            "Hercule Poirot : The Complete Short Stories",
+            4.62,
+            26
+        ],
+        [
+            "When the Women Come Out to Dance: Stories",
+            4.59,
+            44
+        ],
+        [
+            "Fadeout",
+            4.56,
+            25
+        ],
+        [
+            "The Bone Doll's Twin (The Tamir Triad)",
+            4.41,
+            113
+        ]
+    ],
+    "Mystery": [
+        [
+            "Heart Trouble: A Callahan Garrity Mystery",
+            4.67,
+            18
+        ],
+        [
+            "Hercule Poirot : The Complete Short Stories",
+            4.62,
+            26
+        ],
+        [
+            "When the Women Come Out to Dance: Stories",
+            4.59,
+            44
+        ],
+        [
+            "Fadeout",
+            4.56,
+            25
+        ],
+        [
+            "The Bone Doll's Twin (The Tamir Triad)",
+            4.41,
+            113
+        ]
+    ],
+    "Biographies": [
+        [
+            "My Life in the Pits: Living and Learning on the NASCAR Winston Cup Circuit",
+            5.0,
+            26
+        ],
+        [
+            "TO END ALL WARS",
+            4.9,
+            39
+        ],
+        [
+            "A Sense of the World: How a Blind Man Became History's Greatest Traveler",
+            4.79,
+            24
+        ],
+        [
+            "Witness to Hope: The Biography of Pope John Paul II",
+            4.78,
+            74
+        ],
+        [
+            "Devil at My Heels: A WW II Hero's Epic Saga of Torment, Survival, and Forgiveness",
+            4.73,
+            188
+        ]
+    ],
+    "Memoirs": [
+        [
+            "My Life in the Pits: Living and Learning on the NASCAR Winston Cup Circuit",
+            5.0,
+            26
+        ],
+        [
+            "TO END ALL WARS",
+            4.9,
+            39
+        ],
+        [
+            "A Sense of the World: How a Blind Man Became History's Greatest Traveler",
+            4.79,
+            24
+        ],
+        [
+            "Witness to Hope: The Biography of Pope John Paul II",
+            4.78,
+            74
+        ],
+        [
+            "Devil at My Heels: A WW II Hero's Epic Saga of Torment, Survival, and Forgiveness",
+            4.73,
+            188
+        ]
+    ],
+    "Wine": [
+        [
+            "Cooking the Roman Way",
+            4.95,
+            21
+        ],
+        [
+            "Provence: The Beautiful Cookbook: Authentic Recipes from the Regions of Provence",
+            4.94,
+            16
+        ],
+        [
+            "1,000 Jewish Recipes (1,000 Recipes)",
+            4.88,
+            16
+        ],
+        [
+            "Room For Dessert : 110 Recipes for Cakes, Custards, Souffles, Tarts, Pies, Cobblers, Sorbets, Sherbets, Ice Creams, Cookies, Candies, and Cordials",
+            4.88,
+            16
+        ],
+        [
+            "Pasta e Verdura: 140 Vegetable Sauces for Spaghetti, Fusilli, Rigatoni, and All Other Noodles",
+            4.84,
+            19
+        ]
+    ],
+    "Cookbooks": [
+        [
+            "Cooking the Roman Way",
+            4.95,
+            21
+        ],
+        [
+            "Provence: The Beautiful Cookbook: Authentic Recipes from the Regions of Provence",
+            4.94,
+            16
+        ],
+        [
+            "1,000 Jewish Recipes (1,000 Recipes)",
+            4.88,
+            16
+        ],
+        [
+            "Room For Dessert : 110 Recipes for Cakes, Custards, Souffles, Tarts, Pies, Cobblers, Sorbets, Sherbets, Ice Creams, Cookies, Candies, and Cordials",
+            4.88,
+            16
+        ],
+        [
+            "Pasta e Verdura: 140 Vegetable Sauces for Spaghetti, Fusilli, Rigatoni, and All Other Noodles",
+            4.84,
+            19
+        ]
+    ],
+    "Contemporary": [
+        [
+            "Gone With the Wind, The Margaret Mitchell Anniversary Edition",
+            4.71,
+            1115
+        ],
+        [
+            "The Winds of War",
+            4.63,
+            291
+        ],
+        [
+            "Tatiana and Alexander",
+            4.57,
+            263
+        ],
+        [
+            "See Jane Score",
+            4.57,
+            140
+        ],
+        [
+            "The Bridge",
+            4.5,
+            38
+        ]
+    ],
+    "Thriller": [
+        [
+            "Heart Trouble: A Callahan Garrity Mystery",
+            4.67,
+            18
+        ],
+        [
+            "Hercule Poirot : The Complete Short Stories",
+            4.62,
+            26
+        ],
+        [
+            "When the Women Come Out to Dance: Stories",
+            4.59,
+            44
+        ],
+        [
+            "Fadeout",
+            4.56,
+            25
+        ],
+        [
+            "The Bone Doll's Twin (The Tamir Triad)",
+            4.41,
+            113
+        ]
+    ],
+    "History": [
+        [
+            "Covered With Glory: The 26th North Carolina Infantry at Gettysburg",
+            4.92,
+            24
+        ],
+        [
+            "Brewer's Dictionary of Phrase and Fable",
+            4.88,
+            16
+        ],
+        [
+            "Complete Idiot's Guide to Publishing Children's Books",
+            4.75,
+            20
+        ],
+        [
+            "The Holocaust",
+            4.74,
+            43
+        ],
+        [
+            "The Battle of Leyte Gulf 23-26 October 1944",
+            4.72,
+            29
+        ]
+    ],
+    "Children's Books": [
+        [
+            "My Monster Mama Loves Me So",
+            4.9,
+            68
+        ],
+        [
+            "Be Nice to Spiders",
+            4.9,
+            20
+        ],
+        [
+            "A Fine, Fine School",
+            4.89,
+            28
+        ],
+        [
+            "The Berenstains' B Book (Bright & Early Books)",
+            4.88,
+            42
+        ],
+        [
+            "A Birthday for Frances",
+            4.85,
+            27
+        ]
+    ],
+    "Arts": [
+        [
+            "Country & Western Gospel Hymnal Volume One: Large Book",
+            4.83,
+            18
+        ],
+        [
+            "Myth and Magic: The Art of John Howe",
+            4.78,
+            18
+        ],
+        [
+            "Dolly: My Life and Other Unfinished Business",
+            4.72,
+            40
+        ],
+        [
+            "Tattoo Sourcebook",
+            4.69,
+            29
+        ],
+        [
+            "The Complete Idiot's Guide to Zen Living",
+            4.68,
+            37
+        ]
+    ],
+    "Social Sciences": [
+        [
+            "There's Nothing in the Middle of the Road but Yellow Stripes and Dead Armadillos: A Work of Political Subversion",
+            4.72,
+            29
+        ],
+        [
+            "Clinical Supervision in Alcohol and Drug Abuse Counseling: Principles, Models, Methods",
+            4.71,
+            17
+        ],
+        [
+            "From Third World to First: The Singapore Story - 1965-2000",
+            4.66,
+            53
+        ],
+        [
+            "Sexual Homicide: Patterns and Motives- Paperback",
+            4.61,
+            18
+        ],
+        [
+            "For a New Liberty: The Libertarian Manifesto",
+            4.56,
+            64
+        ]
+    ]
+}
