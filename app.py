@@ -3,8 +3,6 @@ warnings.filterwarnings('ignore')
 import pandas as pd 
 import numpy as np 
 import sys
-import pickle
-import joblib
 import json
 import streamlit as st
 from sklearn.metrics.pairwise import cosine_similarity
