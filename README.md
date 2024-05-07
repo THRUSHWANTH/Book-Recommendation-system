@@ -45,12 +45,14 @@ The primary objective is to offer users more personalized recommendations, there
 #### User-Based Collaborative Filtering (KNN)
   <img src="Visualizations/KNN EUCLIDEAN.png" width="800" height="500" />
   <img src="Visualizations/KNN_COSINE.png" width="800" height="500" />
+  
 - Mean Recall@5: 0.00092
 - Mean NDCG@5: 0.00060
 
 #### Matrix Factorization
   <img src="Visualizations/Matrix factorization 01.png" width="800" height="500" />
   <img src="Visualizations/Matrix_factorization 02.png" width="800" height="500" />
+  
 - Mean Recall@5: 0.0147
 - Mean NDCG@5: 0.0107
 
@@ -69,6 +71,7 @@ The primary objective is to offer users more personalized recommendations, there
 ### Books with Minimum Reviews (Filter)
   <img src="Visualizations/item based cf 01.png" width="800" height="500" />
   <img src="Visualizations/item based 02.png" width="800" height="500" />
+
 | Minimum Reviews | Interaction (%) | Recall@5 | NDCG@5 |
 |-----------------|------------------|----------|--------|
 | At Least 2      | 100.00           | 0.18     | 0.17   |
