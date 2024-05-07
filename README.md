@@ -32,7 +32,9 @@ The primary objective is to offer users more personalized recommendations, there
 
 - **NDCG@5**: Normalized Discounted Cumulative Gain
 - **Recall@5**: Measures the proportion of relevant items recommended among the top 5 suggestions.
-
+  
+## Models Tackled 
+  <img src="Visualizations/Models tackled.png" width="800" height="500" /> 
 ### Model Results
 
 #### Content-Based Model (TFIDF + Cosine Similarity)
@@ -41,12 +43,14 @@ The primary objective is to offer users more personalized recommendations, there
 - Mean NDCG@5: 0.0144
 
 #### User-Based Collaborative Filtering (KNN)
-
+  <img src="Visualizations/KNN EUCLIDEAN.png" width="800" height="500" />
+  <img src="Visualizations/KNN_COSINE.png" width="800" height="500" />
 - Mean Recall@5: 0.00092
 - Mean NDCG@5: 0.00060
 
 #### Matrix Factorization
-
+  <img src="Visualizations/Matrix factorization 01.png" width="800" height="500" />
+  <img src="Visualizations/Matrix_factorization 02.png" width="800" height="500" />
 - Mean Recall@5: 0.0147
 - Mean NDCG@5: 0.0107
 
@@ -63,7 +67,8 @@ The primary objective is to offer users more personalized recommendations, there
 - Filtered interactions dataframe based on num_reviews threshold.
   
 ### Books with Minimum Reviews (Filter)
-
+  <img src="Visualizations/item based cf 01.png" width="800" height="500" />
+  <img src="Visualizations/item based 02.png" width="800" height="500" />
 | Minimum Reviews | Interaction (%) | Recall@5 | NDCG@5 |
 |-----------------|------------------|----------|--------|
 | At Least 2      | 100.00           | 0.18     | 0.17   |
@@ -99,6 +104,8 @@ The specific values for Recall@5 and NDCG@5 are estimates based on the understan
 - Generated a JSON file containing top 5 books from each category.
 
 ## Application (app.py)
+  
+<img src="Visualizations/deploement flow chart.png" width="800" height="500" />
 The app.py file serves as a Streamlit web application for showcasing the personalized recommendation system to users. Here's what it does:
 
 - Imports necessary libraries and modules.
