@@ -85,8 +85,7 @@ def main(train_df):
     ]
     st.write("Try using existing user IDs:")
     st.write(", ".join(["A1FEFGP7QVQVDK", "AHXMDCU0N15TN", "A3T6R1GAFRP1I9", "ALRBLOW3ETCY1",
-          "A230FZXK8P7QVN", "A8GZ7Z7MHX2DU", "A1HIMJ9CENKXS4", "A8NBDH7IWGI47",
-          "AUVETC3Z577P6", "AGUVLMMICT3S6"]))
+           "A8GZ7Z7MHX2DU"]))
 
 
     user_input = st.text_input("Please enter your user ID:")
