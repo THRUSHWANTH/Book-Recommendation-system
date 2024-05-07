@@ -35,6 +35,7 @@ The primary objective is to offer users more personalized recommendations, there
   
 ## Models Tackled 
   <img src="Visualizations/Models tackled.png" width="800" height="500" /> 
+  
 ## Model Results
 
 #### Content-Based Model (TFIDF + Cosine Similarity)
@@ -51,7 +52,8 @@ The primary objective is to offer users more personalized recommendations, there
 
 #### Matrix Factorization
   <img src="Visualizations/Matrix factorization 01.png" width="800" height="500" />
-  <img src="Visualizations/Matrix_factorization 02.png" width="800" height="500" />
+  
+  <img src="Visualizations/Matriz_factorization 02.png" width="800" height="500" />
   
 - Mean Recall@5: 0.0147
 - Mean NDCG@5: 0.0107
