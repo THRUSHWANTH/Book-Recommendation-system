@@ -66,7 +66,7 @@ def user_exists(user_id, test_df):
     return user_id in test_df['reviewerID'].unique()
 
 def main(train_df):
-    st.title("Book Recommendation System")
+    #st.title("Book Recommendation System")
     st.set_page_config(page_title="Book Recommendation System", page_icon="", layout="wide")  # Adjust layout as needed
     # Load category books data
     with open('category_books.json', 'r') as f:
