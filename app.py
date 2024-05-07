@@ -72,7 +72,7 @@ def main(train_df):
 
     # Customize the sidebar
     markdown = """
-    Used Item Based Collaborative Filtering Method Using Cosine Similarity
+    Using Item-Based Collaborative Filtering with Cosine Similarity
     """
     logo = "https://miro.medium.com/v2/resize:fit:1100/format:webp/0*kd1E9mKjRrCZ4K6B.jpg"
     st.sidebar.image(logo)
