@@ -66,6 +66,8 @@ The primary objective is to offer users more personalized recommendations, there
 | Cosine Similarity | 0.18     | 0.17   |
 | Pearson Similarity| 0.1798   | 0.1732 |
 
+- we can observe that the best evaluation metrics are obtained using item based collaborative filtering Method.
+
 ## Data Enhancement and Filtering
 
 - Derived crucial metrics: avg_rating and num_reviews.
