@@ -80,17 +80,17 @@ The primary objective is to offer users more personalized recommendations, there
 | Minimum Reviews | Interaction (%) | Recall@5 | NDCG@5 |
 |-----------------|------------------|----------|--------|
 | At Least 2      | 100.00           | 0.18     | 0.17   |
-| At Least 3      | 85.00            | 0.21     | 0.19   |
-| At Least 4      | 70.00            | 0.22     | 0.21   |
-| At Least 5      | 55.00            | 0.26     | 0.24   |
-| At Least 6      | 40.00            | 0.24     | 0.23   |
-| At Least 7      | 30.00            | 0.25     | 0.23   |
-| At Least 10     | 25.00            | 0.28     | 0.27   |
-| At Least 20     | 20.00            | 0.30     | 0.32   |
-| At Least 30     | 18.00            | 0.36     | 0.33   |
-| At Least 40     | 15.00            | 0.37     | 0.35   |
-| At Least 50     | 10.00            | 0.39     | 0.37   |
-| At Least 60     | 7.00             | 0.41     | 0.38   |
+| At Least 3      | 94.93            | 0.21     | 0.19   |
+| At Least 4      | 91.45            | 0.22     | 0.21   |
+| At Least 5      | 88.40            | 0.26     | 0.24   |
+| At Least 6      | 86.26            | 0.24     | 0.23   |
+| At Least 7      | 84.19            | 0.25     | 0.23   |
+| At Least 10     | 78.54            | 0.28     | 0.27   |
+| At Least 20     | 68.16            | 0.30     | 0.32   |
+| At Least 30     | 61.72            | 0.36     | 0.33   |
+| At Least 40     | 57.43            | 0.37     | 0.35   |
+| At Least 50     | 52.79            | 0.39     | 0.37   |
+| At Least 60     | 50.01            | 0.41     | 0.38   |
 
 ### Trade-off:
 
