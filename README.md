@@ -17,7 +17,6 @@ The primary objective is to offer users more personalized recommendations, there
 ## Data Overview
 
 - Data Source : Amazon Book Dataset from UCSD [Link - https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html] 
-![image](https://github.com/THRUSHWANTH/Book-Recommendation-system/assets/69004763/dbc9c425-1907-4ce7-b829-5fb785616d3b)
 - **Main Data Columns**: `reviewerID`, `asin`, `reviewerName`, `overall`, `combined_text`, `category`, `description`, `title`, `brand`, `rank`, `main_cat`, `price`
 - **Potential Columns**: `asin`, `reviewerID`, `overall`, `combined_text`, `category`, `avg_rating` (calculated), `num_reviews` (calculated)
 
