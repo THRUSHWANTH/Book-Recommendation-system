@@ -14,7 +14,7 @@ The primary objective is to offer users more personalized recommendations, there
 - Which recommendation models are most effective in providing personalized suggestions?
 - What factors are essential for enhancing recommendations without compromising key metrics such as the revenue of the giants?
 
-## Data Overview
+## Data Source
 
 - Data Source : Amazon Book Dataset from UCSD [Link - https://cseweb.ucsd.edu/~jmcauley/datasets/amazon/links.html] 
 - **Main Data Columns**: `reviewerID`, `asin`, `reviewerName`, `overall`, `combined_text`, `category`, `description`, `title`, `brand`, `rank`, `main_cat`, `price`
