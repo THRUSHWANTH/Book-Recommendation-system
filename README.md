@@ -28,7 +28,7 @@ The primary objective is to offer users more personalized recommendations, there
 - Unique Users: 13652, Unique Books: 2758
 
 ## Evaluation Metrics
-  <img src="Visualizations/Recall.png" width="200" height="500" />
+  <img src="Visualizations/Recall.png" width="500" height="500" />             <img src="Visualizations/ndcg.png" width="500" height="500" />    
 
 - **NDCG@5**: Normalized Discounted Cumulative Gain
 - **Recall@5**: Measures the proportion of relevant items recommended among the top 5 suggestions.
