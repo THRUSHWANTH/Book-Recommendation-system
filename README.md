@@ -1,5 +1,5 @@
 # Personalized Recommendation System
-
+- Streamlit : https://book-recommendation-system-brwctmqcq6sz4dq6espv2d.streamlit.app/
 ## Introduction
 
 Personalized recommendations are crucial for companies to maximize revenue. While revenue generation primarily relies on user subscriptions and inventory listing fees, personalized recommendations play a pivotal role. This project aims to investigate and enhance recommendation models to deliver more tailored suggestions to users.
