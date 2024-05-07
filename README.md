@@ -35,7 +35,7 @@ The primary objective is to offer users more personalized recommendations, there
   
 ## Models Tackled 
   <img src="Visualizations/Models tackled.png" width="800" height="500" /> 
-### Model Results
+## Model Results
 
 #### Content-Based Model (TFIDF + Cosine Similarity)
 
